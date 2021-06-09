@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magnate Streaming Service</string>
+    <string name="Logo_Page_Title">Logo Page</string>
+    <string name="loading_Logo">Note: Logo Page is for checking user account if login auto</string>
+</resources>

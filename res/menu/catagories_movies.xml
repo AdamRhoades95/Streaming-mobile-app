@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+    <item
+        android:id="@+id/popDrama"
+        android:title="Drama" />
+    <item
+        android:id="@+id/popComedy"
+        android:title="Comedy" />
+    <item
+        android:id="@+id/popThriller"
+        android:title="Thriller" />
+    <item
+        android:id="@+id/popRomance"
+        android:checkable="true"
+        android:title="Romance" />
+    <item
+        android:id="@+id/popAction"
+        android:checkable="true"
+        android:title="Action" />
+    <item
+        android:id="@+id/popHorror"
+        android:checkable="true"
+        android:title="Horror" />
+    <item
+        android:id="@+id/popCrime"
+        android:checkable="true"
+        android:title="Crime" />
+    <item
+        android:id="@+id/popAdventure"
+        android:checkable="true"
+        android:title="Adventure" />
+    <item
+        android:id="@+id/popMystery"
+        android:checkable="true"
+        android:title="Mystery" />
+    <item
+        android:id="@+id/popFamily"
+        android:checkable="true"
+        android:title="Family" />
+    <item
+        android:id="@+id/popEducational"
+        android:checkable="true"
+        android:title="Educational" />
+    <item
+        android:id="@+id/popSciFi"
+        android:checkable="true"
+        android:title="Sci-Fi" />
+    <item
+        android:id="@+id/popMusical"
+        android:checkable="true"
+        android:title="Musical" />
+    <item
+        android:id="@+id/popAnimation"
+        android:checkable="true"
+        android:title="Animation" />
+    <item
+        android:id="@+id/popSports"
+        android:checkable="true"
+        android:title="Sports" />
+    <item
+        android:id="@+id/popNews"
+        android:checkable="true"
+        android:title="News" />
+    <item
+        android:id="@+id/popOther"
+        android:checkable="true"
+        android:title="Other" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+    <item
+        android:id="@+id/popBlues"
+        android:checkable="true"
+        android:title="Blues" />
+    <item
+        android:id="@+id/popComedy"
+        android:checkable="true"
+        android:title="Comedy" />
+    <item
+        android:id="@+id/popClassical"
+        android:checkable="true"
+        android:title="Classical" />
+    <item
+        android:id="@+id/popRomance"
+        android:checkable="true"
+        android:title="Romance" />
+    <item
+        android:id="@+id/popCountry"
+        android:checkable="true"
+        android:title="Country" />
+    <item
+        android:id="@+id/popJazz"
+        android:checkable="true"
+        android:title="Jazz" />
+    <item
+        android:id="@+id/popHiphop"
+        android:checkable="true"
+        android:title="Hip-hop" />
+    <item
+        android:id="@+id/popSoul"
+        android:checkable="true"
+        android:title="Soul" />
+    <item
+        android:id="@+id/popRock"
+        android:checkable="true"
+        android:title="Rock" />
+    <item
+        android:id="@+id/popPop"
+        android:checkable="true"
+        android:title="Pop" />
+    <item
+        android:id="@+id/popRB"
+        android:checkable="true"
+        android:title="R and B" />
+    <item
+        android:id="@+id/popLatin"
+        android:checkable="true"
+        android:title="Latin" />
+    <item
+        android:id="@+id/popMetal"
+        android:checkable="true"
+        android:title="Metal" />
+    <item
+        android:id="@+id/popRap"
+        android:checkable="true"
+        android:title="Rap" />
+    <item
+        android:id="@+id/popSports"
+        android:checkable="true"
+        android:title="Sports" />
+    <item
+        android:id="@+id/popNews"
+        android:checkable="true"
+        android:title="News" />
+    <item
+        android:id="@+id/popEducational"
+        android:checkable="true"
+        android:title="Educational" />
+</group>
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="HOME" android:id="@+id/popHome"/>
+    <item android:title="MOVIES" android:id="@+id/popMovies" />
+    <item android:title="PODCASTS" android:id="@+id/poppodcasts" />
+    <item android:title="MUSIC" android:id="@+id/popMusic" />
+    <item android:title="SEARCH" android:id="@+id/popSearch"/>
+    <item android:title="PROFILE" android:id="@+id/popProfile"/>
+    <item android:title="PAYMENT METHOD" android:id="@+id/popMethodPay"/>
+    <item android:title="MANAGE UPLOADS" android:id="@+id/popmngUpload"/>
+    <item android:title="UPLOAD" android:id="@+id/popUpload"/>
+    <item android:title="SIGN-OUT" android:id="@+id/popSignOut"/>
+
+</menu>
